@@ -1,6 +1,6 @@
 # Location TS 🗺️📌
 
-### Simple Starter Application to embed a map into your web application.
+### Starter Code to embed a map into your web application.
 
 #### Webisite live at [locationts.onrender.com](https://locationts.onrender.com/)
 
